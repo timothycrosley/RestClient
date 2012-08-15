@@ -1,0 +1,66 @@
+8
+
+dir
+2
+https://python-rest-client.googlecode.com/svn/trunk/httplib2
+https://python-rest-client.googlecode.com/svn
+
+
+
+2008-05-14T17:00:19.245332Z
+2
+bosteen
+
+
+svn:special svn:externals svn:needs-lock
+
+iri2uri.pyc
+file
+
+
+
+
+2008-05-14T14:48:03.000000Z
+6f9a0833a6dc59c42b7aec0dfdf39dd0
+2008-05-14T17:00:19.245332Z
+2
+bosteen
+has-props
+
+__init__.py
+file
+
+
+
+
+2007-10-23T15:25:46.000000Z
+00c607566b698248d5a5c40508843cd7
+2008-05-14T17:00:19.245332Z
+2
+bosteen
+
+__init__.pyc
+file
+
+
+
+
+2008-05-14T14:48:03.000000Z
+bdf8607edad61c67d890de558db8006c
+2008-05-14T17:00:19.245332Z
+2
+bosteen
+has-props
+
+iri2uri.py
+file
+
+
+
+
+2007-09-04T04:02:06.000000Z
+c0f9c5cb229a22e21575322b4ba77741
+2008-05-14T17:00:19.245332Z
+2
+bosteen
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/1/trunk
+END
+restful_lib.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/restful_lib.py
+END
+mimeTypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/mimeTypes.py
+END
+talis.py
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/8/trunk/talis.py
+END
+gae_restful_lib.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/gae_restful_lib.py
+END

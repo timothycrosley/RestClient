@@ -1,0 +1,79 @@
+8
+
+dir
+1
+https://python-rest-client.googlecode.com/svn/trunk
+https://python-rest-client.googlecode.com/svn
+
+
+
+2008-05-14T16:57:20.814933Z
+1
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47e98fac-334d-0410-b3a4-bbe45ef6c192
+
+restful_lib.py
+file
+3
+
+
+
+2008-05-15T09:37:57.000000Z
+7e63b787c0620695448491652d693851
+2008-05-15T09:40:19.803475Z
+3
+bosteen
+
+mimeTypes.py
+file
+2
+
+
+
+2008-05-14T16:58:40.000000Z
+9d4100c3dd8f0703f29232825a84b609
+2008-05-14T17:00:19.245332Z
+2
+bosteen
+
+talis.py
+file
+8
+
+
+
+2008-06-03T09:08:58.000000Z
+f7c4f26abcb0ec991f15ee6a7ea408e3
+2008-06-03T09:46:13.295420Z
+8
+bosteen
+
+httplib2
+dir
+
+gae_restful_lib.py
+file
+8
+
+
+
+2008-06-03T09:26:04.000000Z
+d70bb298d11f00a1396c67e306132c02
+2008-06-03T09:46:13.295420Z
+8
+bosteen
+
