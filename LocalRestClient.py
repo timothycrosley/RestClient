@@ -17,7 +17,7 @@ from django.core.urlresolvers import resolve
 from django.http import HttpResponse
 
 from djangoapps.swift.ApiAuthentication import ApiAuthenticationFunction
-from RestClient import RestClient
+from Rest import RestClient
 
 
 CALL_MAP = {'DELETE': 'delete', 'GET': 'read', 'POST': 'create', 'PUT': 'update'}
