@@ -8,6 +8,6 @@ setup(name='Rest',
       author='Timothy Crosley',
       author_email='timothy.crosley@gmail.com',
       url='http://www.simpleinnovation.org/',
-      download_url='https://github.com/timothycrosley/restclient/blob/master/dist/RestClient-0.1.tar.gz?raw=true',
+      download_url='https://github.com/timothycrosley/RestClient/raw/master/dist/Rest-0.1.tar.gz',
       license = "GNU GPLv2",
       py_modules = ['Rest',])
