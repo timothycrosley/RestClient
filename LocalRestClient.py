@@ -59,11 +59,11 @@ class LocalRestClient(RestClient):
             return result.content
         return result
 
-    def get(self, apiCall):
+    def get(self, apiCall, data=None):
         """
             Makes a rest GET call: appending 'apiCall' to the end of the URL
         """
-        return self.__open__(apiCall, "GET")
+        return self.__open__(apiCall, "GET", data)
 
     def post(self, apiCall, data):
         """

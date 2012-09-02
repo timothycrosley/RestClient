@@ -51,11 +51,11 @@ class RestClient(object):
         else:
             return response['body']
 
-    def get(self, apiCall):
+    def get(self, apiCall, data=None):
         """
             Makes a rest GET call: appending 'apiCall' to the end of the URL
         """
-        return self.__open__(apiCall, "get")
+        return self.__open__(apiCall, "get", data)
 
     def post(self, apiCall, data):
         """
