@@ -75,7 +75,7 @@ class RestClient(object):
     def __open__(self, apiCall, method, data=None):
         if self.authType == GOOGLE:
             serv_args = {}
-            serv_args['continue'] = self.baseUrl
+            serv_args['continue'] = self.baseUrl + apiCall
             serv_args['auth'] = self.__authCredentials__
 
             full_serv_uri = "http://" + urlparse(self.baseUrl).netloc + "/_ah/login?%s" % (urllib.urlencode(serv_args))
