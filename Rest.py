@@ -81,6 +81,8 @@ class RestClient(object):
             full_serv_uri = "http://" + urlparse(self.baseUrl).netloc + "/_ah/login?%s" % (urllib.urlencode(serv_args))
 
             request = urllib2.Request(full_serv_uri)
+            self.opener.open(request).read()
+            request = urllib2.Request(self.baseUrl + apiCall)
         else:
             request = urllib2.Request(self.baseUrl + apiCall)
         request.get_method = lambda: method
